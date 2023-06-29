@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jpsgamer15
+- 👀 I’m interested in UEFN and learning how to code in javascript and with MakeCode Arcade blocks
+- 🌱 I’m currently learning how to code with MakeCode Arcade
+- 💞️ I’m looking to collaborate on nothing for now
